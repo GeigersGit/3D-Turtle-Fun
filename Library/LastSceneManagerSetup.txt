@@ -1,0 +1,5 @@
+sceneSetups:
+- path: D:/Media/Projects/Unity/Grandpa Lightwave Finally Lost It/Assets/Scenes/Main
+    Scene.unity
+  isLoaded: 1
+  isActive: 1
